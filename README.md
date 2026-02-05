@@ -31,10 +31,10 @@ The system detects multiple objects from a live webcam feed and displays boundin
 ## 📸 Sample Output
 
 ### Live Object Detection
-![Demo 1](screenshots/demo1.png)
+![Demo 1]<img width="1082" height="730" alt="Screenshot 2026-02-05 172541" src="https://github.com/user-attachments/assets/1b4e238f-2096-4a48-8069-d32d7ccd6f01" />
 
-### Object Detection with Confidence Scores
-![Demo 2](screenshots/demo2.png)
+
+
 
 ---
 
